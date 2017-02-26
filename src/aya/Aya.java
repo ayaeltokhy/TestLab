@@ -22,6 +22,9 @@ public class Aya {
         int z = 50;
         
         System.out.print(z);
+        
+        // comm
+        int zzz = 150;
     }
     
 }
