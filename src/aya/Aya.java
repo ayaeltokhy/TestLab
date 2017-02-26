@@ -20,6 +20,8 @@ public class Aya {
         int x = 5;
         int y = 50;
         int z = 50;
+        
+        System.out.print(z);
     }
     
 }
